@@ -1,0 +1,14 @@
+{
+	"name": "flow-saas",
+	"description": "flow-saas",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aspectron/flow-saas"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"@aspectron/flow-utils": "*",
+		"express": "*"
+	}
+}
