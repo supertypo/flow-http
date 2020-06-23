@@ -1,14 +1,17 @@
 {
-	"name": "flow-saas",
-	"description": "flow-saas",
+	"name": "flow-http",
+	"description": "flow-http",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/aspectron/flow-saas"
+		"url": "git+https://github.com/aspectron/flow-http"
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@aspectron/flow-utils": "*",
-		"express": "*"
+		"body-parser": "*",
+		"cookie": "*",
+		"cookie-parser": "*",
+		"cookie-signature": "*",
+		"ejs": "*"
 	}
 }
