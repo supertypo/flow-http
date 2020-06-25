@@ -1,5 +1,5 @@
 {
-	"name": "flow-http",
+	"name": "@aspectron/flow-http",
 	"description": "flow-http",
 	"main": "index.js",
 	"repository": {
@@ -7,11 +7,5 @@
 		"url": "git+https://github.com/aspectron/flow-http"
 	},
 	"license": "MIT",
-	"dependencies": {
-		"body-parser": "*",
-		"cookie": "*",
-		"cookie-parser": "*",
-		"cookie-signature": "*",
-		"ejs": "*"
-	}
+	"dependencies": {}
 }
