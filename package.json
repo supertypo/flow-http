@@ -1,4 +1,5 @@
 {
+	"version": "0.0.1",
 	"name": "@aspectron/flow-http",
 	"description": "flow-http",
 	"main": "index.js",
