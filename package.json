@@ -8,5 +8,7 @@
 		"url": "git+https://github.com/aspectron/flow-http"
 	},
 	"license": "MIT",
-	"dependencies": {}
+	"dependencies": {
+		"@aspectron/flow-uid": "*"
+	}
 }
