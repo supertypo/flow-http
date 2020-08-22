@@ -1,7 +1,7 @@
 {
 	"version": "0.0.5",
 	"name": "@aspectron/flow-http",
-	"description": "flow-http",
+	"description": "HTTP server",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
