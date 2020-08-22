@@ -1,5 +1,5 @@
 {
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"name": "@aspectron/flow-http",
 	"description": "flow-http",
 	"main": "index.js",
@@ -10,5 +10,26 @@
 	"license": "MIT",
 	"dependencies": {
 		"@aspectron/flow-uid": "*"
-	}
+	},
+	"devDependencies": {
+		"eslint": "*",
+		"eslint-config-google": "*",
+		"jsdoc": "*",
+		"flow-jsdoc-template": "git+https://github.com/aspectron/flow-jsdoc-template"
+	},
+	"scripts": {
+		"docs": "node_modules/.bin/jsdoc --configure .jsdoc.js --verbose"
+	},
+	"author": {
+		"name": "ASPECTRON Inc.",
+		"email": "info@aspectron.com",
+		"url": "https://aspectron.com"
+	},
+	"files": [
+		"index.js",
+		"lib",
+		"README.md",
+		"LICENSE",
+		".jsdoc.js"
+	]
 }
