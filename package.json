@@ -1,5 +1,5 @@
 {
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"name": "@aspectron/flow-http",
 	"description": "HTTP server",
 	"main": "index.js",
@@ -9,7 +9,8 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@aspectron/flow-uid": "*"
+		"@aspectron/flow-uid": "*",
+		"@aspectron/flow-async": "*"
 	},
 	"devDependencies": {
 		"eslint": "*",
