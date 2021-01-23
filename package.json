@@ -10,7 +10,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@aspectron/flow-uid": "*",
-		"@aspectron/flow-async": "*"
+		"@aspectron/flow-async": ">=1.0.0"
 	},
 	"devDependencies": {
 		"eslint": "*",
