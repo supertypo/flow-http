@@ -1,5 +1,5 @@
 {
-	"version": "0.2.6",
+	"version": "0.2.7",
 	"name": "@aspectron/flow-http",
 	"description": "HTTP server",
 	"main": "index.js",
